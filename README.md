@@ -1,0 +1,2 @@
+Armor is a game based application built on the concept of object-oriented programming with the help of java language. It consists of two players each having name,weapon and health as their attributes. Player 2 has aspecial utility feature called "Armor", if Armor is true it saves 10 points on each gun shot that hits player 2.
+Some functionalities included are heel(health again becomes 100), gun-one(health reduced by 30 points) and gun-two( health reduced by 50 points).
